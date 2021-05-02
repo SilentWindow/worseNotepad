@@ -1,0 +1,15 @@
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.exe
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.deps.json
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.runtimeconfig.json
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.runtimeconfig.dev.json
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.dll
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\bin\Debug\netcoreapp3.1\worseNotepad.pdb
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.csprojAssemblyReference.cache
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.csproj.GenerateResource.cache
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.AssemblyInfoInputs.cache
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.AssemblyInfo.cs
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.csproj.CoreCompileInputs.cache
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.dll
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.pdb
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.genruntimeconfig.cache
+C:\Users\bmice\Desktop\worseNotepad\worseNotepad\obj\Debug\netcoreapp3.1\worseNotepad.worseNotepad.resources
